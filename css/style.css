@@ -1,0 +1,24 @@
+/* .box{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    gap: 20px;
+    grid-template-columns: 200px auto 30% 300px;
+    grid-template-rows: 200px 400px;
+    width: 1300px;
+    background-color: aqua;
+    border: 1px solid;
+    margin: 0 auto;
+}
+.box > div{
+    font-size: 30px;
+    text-align: center;
+    border: 1px solid;
+    background-color: white;
+}
+.item1{
+    grid-column-start: 1;
+    grid-column-end: 3;
+} */
+body{
+    background-image: linear-gradient(to top, #c471f5 0%, #fa71cd 100%);
+}
